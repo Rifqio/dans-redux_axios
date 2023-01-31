@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Adisd",
+      "address": "Solo"
+    },
+    {
+      "id": 2,
+      "name": "Karen",
+      "address": "Bogor"
+    },
+    {
+      "id": 3,
+      "name": "Michael",
+      "address": "Surabaya"
+    },
+    {
+      "id": 157,
+      "name": "Abdul",
+      "address": "Bogor"
+    },
+    {
+      "id": 751,
+      "name": "Natus obcaecati omni",
+      "address": "In ducimus fugiat "
+    }
+  ]
+}
