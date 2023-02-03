@@ -19,7 +19,6 @@ function UserList() {
   return (
     <Container className="my-4 text-center">
       {!user.loading && user.error ? <div>{user.error}</div> : null}
-      <h1>User List</h1>
       {user.loading && <h3>Loading the data...</h3>}
       <Table striped bordered hover>
         <thead>
